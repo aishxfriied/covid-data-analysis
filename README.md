@@ -18,7 +18,7 @@ This project analyzes global COVID-19 trends using a dataset that includes confi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid-data-analysis.git
+   git clone https://github.com/aishxfriied/covid-data-analysis.git
    ```
 
 2. Navigate to the project directory:
