@@ -4,8 +4,8 @@ This project analyzes global COVID-19 trends using a dataset that includes confi
 
 ## Key Features
 
-- Global cumulative case trends analysis.
-- Top 10 countries by total confirmed COVID-19 cases.
+- Analysis of global cumulative COVID-19 case trends.
+- Visualization of the top 10 countries by total confirmed COVID-19 cases.
 
 ## Requirements
 
@@ -19,20 +19,24 @@ This project analyzes global COVID-19 trends using a dataset that includes confi
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/covid-data-analysis.git
+   ```
 
 2. Navigate to the project directory:
-```bash
-cd covid-data-analysis
+   ```bash
+   cd covid-data-analysis
+   ```
 
 3. Install the required libraries:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 4. Run the analysis script:
-```bash
-python src/covid_analysis.py
+   ```bash
+   python src/covid_analysis.py
+   ```
 
+## Visualizations
 
-##Visualizations
-global_trend.png: Global cumulative COVID-19 cases over time.
-top_countries.png: Bar chart of the top 10 countries by confirmed cases.
+- **`global_trend.png`**: Global cumulative COVID-19 cases over time.
+- **`top_countries.png`**: Bar chart of the top 10 countries by confirmed cases.
